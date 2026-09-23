@@ -1,6 +1,4 @@
-google gen-ai
+google-genai
 streamlit
 plotly
 pandas
-random
-colorsys
