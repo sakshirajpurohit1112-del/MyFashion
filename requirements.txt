@@ -1,2 +1,6 @@
 google gen-ai
 streamlit
+plotly
+pandas
+random
+colorsys
